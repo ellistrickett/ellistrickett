@@ -60,7 +60,7 @@ A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practice
 
 # Experience
 
-**Terrapinn**, London, UK - *Account Execitve -(March 2019 - January 2020*
+**Terrapinn**, London, UK - *Account Execitve -(March 2019 - January 2020)*
 
 **Worldwide Business Research(WBR)**, London, UK - *Delegate Sales Executive(October 2017 - December 2018)*
 
