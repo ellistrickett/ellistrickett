@@ -72,4 +72,4 @@ A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practice
 
 I have been skateboarding for over 15 years now. It is one of the most important things in my life and I owe it alot. From a young age, it taught me how to see the world creatively and how to push myself to achieve goals.
 
-I am also a keen runner and cyclist in my spare time. I find it also helps to keep the mind energised and ready to code.
+I am also a keen runner and cyclist in my spare time. I find it helps to keep the mind energised and ready to code.
