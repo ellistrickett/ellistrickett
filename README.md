@@ -43,7 +43,7 @@ In my previous role, I was problem solving all day. Calling clients, finding out
 
 #### Inquisitive 
 
-I love learning new things and Software Development gives me the opportunity to do this for the rest of my career. If it is a new piece of syntax or a different approach to a problem, I don't leave any stone unturned. I want to learn everthing there is to know about whatever it is I am working, right down to the finest details. It may mean it might take longer to complete a task first time around, but I want to be confident when I have completed said task, that I can replicate this going forward with minimal fuss. 
+I love learning new things and Software Development gives me the opportunity to do this for the rest of my career. If it is a new piece of syntax or a different approach to a problem, I don't leave any stone unturned. I want to learn everthing there is to know about whatever it is I am working on, right down to the finest details. It may mean it might take longer to complete a task first time around, but I want to be confident when I have completed said task, that I can replicate this going forward with minimal fuss. 
 
 This is why when I finished Makers, I decided to take a few months to carry on learning as opposed to diving straight into the job hunt. I felt there was things I missed out on first time around. I wanted to make sure when I do come to applying for jobs, I am 100% confident I have grasped key concepts and I can build a full stack website on my own as opposed to part of a team. I can now and this is why I am ready to take the next step in my journey!
 
