@@ -2,7 +2,7 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) 
 
-I am an ambitious and detiermined Makers Academy graduate, confident in TDD using both JavaScript and Ruby. I took the decision to pursue a career in Software Development because I love the process of bringing ideas to life and learning new things each and every day. Makers has proven to be the perfect place to start my journey and learn skills that are valuable in the industry such as working on tech projects as part of a team, Object Oriented Design and the ability to learn any new technology I wish.
+I am an ambitious and determined Makers Academy graduate, confident in TDD using both JavaScript and Ruby. I took the decision to pursue a career in Software Development because I love the process of bringing ideas to life and learning new things each and every day. Makers has proven to be the perfect place to start my journey and learn skills that are valuable in the industry such as working on tech projects as part of a team, Object Oriented Design and the ability to learn any new technology I wish.
 
 Since graduating Makers at the end of June, I have spent my time learning React and the MERN stack. I have completed a number of Udemy courses and I am now working on a solo project for my portfolio "Popde" (Depop clone) which you can see at the top of my projects list below. Although, it is still a working progress and there is still lots of things I would like to add, I can now say I feel confident in my ability to build full stack CRUD applications on my own. 
 
