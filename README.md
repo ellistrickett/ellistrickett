@@ -2,15 +2,15 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) 
 
-I am an ambitious and determined Makers Academy graduate, confident in TDD using both JavaScript and Ruby. I took the decision to pursue a career in Software Development because I love the process of bringing ideas to life and learning new things each and every day. Makers has proven to be the perfect place to start my journey and learn skills that are valuable in the industry such as working on tech projects as part of a team, Object Oriented Design and the ability to learn any new technology I wish.
+I am an ambitious and determined Makers Academy graduate, confident in TDD using both JavaScript and Ruby. I took the decision to pursue a career in Software Development because I love the process of bringing ideas to life and learning new skills each and every day. Makers has proven to be the perfect place to start my journey and learn the skills needed to become successful in the industry, such as Object Oriented Design principles, the ability to learn any new technology I wish and working in team environment utilising Agile methodologies.
 
-Since graduating Makers at the end of June, I have spent my time learning React and the MERN stack. I have completed a number of Udemy courses and I am now working on a solo project for my portfolio "Popde" (Depop clone) which you can see at the top of my projects list below. Although, it is still a working progress and there is still lots of things I would like to add, I can now say I feel confident in my ability to build full stack CRUD applications on my own. 
+Since graduating Makers at the end of June, I have juggled my time between job searching and learning new technologies. I have made use of this time by becoming an even better developer and learning new technologies which will stand me in good stead for when I do get my first opportunity. I feel I have mastered the MERN stack (MongoDB, Express, React, NodeJS) and am now challenging myself to build projects using Python. I love playing around with new technologies and feel it hugely benifits my core understanding of how Software Development works.
 
 # Background
 
 Before I decided to pursue a career in tech, I had been working in various sales roles for 7+ years. 3 years ago I moved to London in order to further my career and was working as a customer-facing sales executive in the lucrative conference industry. I built relationships with C-Level executives across multiple industries and specialised in Pharmaceuitcal Development. I was successful and reguraly went above and beyond targets due to my work ethic and detiermination to succeed.
 
-**Tech Stack**: JavaScript, React, Nodejs, Express, MongoDB, Postman, Ruby, SQL, HTML, CSS,  Sinatra, Rails,  Bootstrap, Rspec, Capybara, Jasmine, Jest, Enzyme, Cypress
+**Tech Stack**: JavaScript, Ruby, Python, React, Vue.js, Nodejs, Express, Django, Rails, MongoDB, SQL, HTML, CSS, Sinatra, Bootstrap, Rspec, Postman, Capybara, Jasmine, Jest, Enzyme, Cypress
 
 
 # Projects
@@ -19,8 +19,8 @@ Before I decided to pursue a career in tech, I had been working in various sales
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Popde](https://github.com/ellistrickett/popde)      | Full Stack Depop clone - Solo Project (Ongoing)                | JavaScript, React, Nodejs, Express, MongoDB          |   Postman    |
-| [Acebook](https://github.com/ellistrickett/acebook-frontend / https://github.com/ellistrickett/acebook-backend)      | A test driven Facebook clone - team project                | Ruby, Ruby on Rails, Bootstrap, PostgreSQL, Travis CI, Heroku, Active Storage           | RSpec, Capybara      |
 [Chronomy](https://github.com/ellistrickett/final-project-frontend / https://github.com/ellistrickett/chronomy-api)            | A tool to create curated playlists of TikToks  | JavaScript, React, Travis CI, Heroku        | Cypress, Jest, Enzyme       | 
+| [Acebook](https://github.com/ellistrickett/acebook-frontend / https://github.com/ellistrickett/acebook-backend)      | A test driven Facebook clone - team project                | Ruby, Ruby on Rails, Bootstrap, PostgreSQL, Travis CI, Heroku, Active Storage           | RSpec, Capybara      |
 | [MakersBnB](https://github.com/ellistrickett/Makersbnb)       | A test driven Airbnb clone - team project                                         | Ruby, Sinatra, Bootstrap, PostgreSQL           | RSpec, Capybara                    |
 | [Bank Tech Test](https://github.com/ellistrickett/bank-tech-test)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Javascript         | Jest       |   
 | [Takeaway Challenge](https://github.com/ellistrickett/takeaway-challenge)            | Small project to practice TDD, Encapsulation, SRP, Dependency Injection  | Ruby         | RSpec       | 
