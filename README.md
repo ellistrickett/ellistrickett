@@ -8,7 +8,7 @@ Since graduating Makers at the end of June, I have juggled my time between job s
 
 # Background
 
-Before I decided to pursue a career in tech, I had been working in various sales roles for 7+ years. 3 years ago I moved to London in order to further my career and was working as a customer-facing sales executive in the lucrative conference industry. I built relationships with C-Level executives across multiple industries and specialised in Pharmaceutical Development. I was successful and Pharmaceutical went above and beyond targets due to my work ethic and determination to succeed.
+Before I decided to pursue a career in tech, I had been working in various sales roles for 7+ years. 3 years ago I moved to London in order to further my career and was working as a customer-facing sales executive in the lucrative conference industry. I built relationships with C-Level executives across multiple industries and specialised in Pharmaceutical Development. I was successful and went above and beyond targets due to my work ethic and determination to succeed.
 
 **Tech Stack**: JavaScript, Ruby, Python, React, Vue.js, Nodejs, Express, Django, Rails, MongoDB, SQL, HTML, CSS, Sinatra, Bootstrap, Rspec, Postman, Capybara, Jasmine, Jest, Enzyme, Cypress
 
