@@ -59,7 +59,7 @@ A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practice
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-# Experience
+<!-- # Experience
 
 **Terrapinn**, London, UK - *Account Execitve -(March 2019 - January 2020)*
 
@@ -68,7 +68,7 @@ A 16 week intensive programming bootcamp with a focus on TDD/BDD, Agile practice
 **Bluecrest Wellness**, UK - *New Business Advisor(August 2014 - July 2017)*
 
 **Telecom Protection Service**, UK - *Sales Executive to Team Leader(January 2013 - August 2014)* 
-
+ -->
 # Hobbies
 
 I have been skateboarding for over 15 years now. It is one of the most important things in my life and I owe it alot. From a young age, it taught me how to see the world creatively and how to push myself to achieve goals.
