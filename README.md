@@ -18,6 +18,7 @@ Before I decided to pursue a career in tech, I had been working in various sales
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [TicTacToe](https://github.com/ellistrickett/TicTacToe)      | Test Driven Devlopment TicTacToe                | C#          |   XUnit    |
 | [Popde](https://github.com/ellistrickett/popde)      | Full Stack Depop clone - Solo Project (Ongoing)                | JavaScript, React, Nodejs, Express, MongoDB, Socket.io          |   Postman    |
 | [BT Real Estate](https://github.com/ellistrickett/btre_project)      | Full Stack Real Estate Website - Solo Project                | Python, Django, JavaScript,  Bootstrap, Ubuntu, PostgreSQL          |       |
 [Chronomy](https://github.com/ellistrickett/final-project-frontend / https://github.com/ellistrickett/chronomy-api)            | A tool to create curated playlists of TikToks  | JavaScript, React, Travis CI, Heroku        | Cypress, Jest, Enzyme       | 
